@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+body{
+    background: #888;
+    font-family: monospace;
+    text-align: center;
+    margin-top: 150px;
+    color: beige;
+}
+
+#res{
+    margin-top: 30px;
+}
